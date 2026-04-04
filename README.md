@@ -13,4 +13,4 @@
         alt="My Image" >
 <p align="center"
 
-  AC ; [27yen_]
+  AC ; [27yen_](https://x.com/27yen_?s=21) & [junasatou](https://x.com/junasatou?s=21)
