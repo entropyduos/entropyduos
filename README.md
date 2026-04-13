@@ -5,7 +5,7 @@
 
   
     
-#####  [atabook](https://placeholder.atabook.org/) 　　　![](https://files.catbox.moe/y8qsao.png)　　　 rentrywip
+#####  ⊱　 [atabook](https://placeholder.atabook.org/) 　　　![](https://files.catbox.moe/y8qsao.png)　　　 rentrywip　꒱
 <p align="center"
 
 <img
@@ -15,4 +15,4 @@
         alt="My Image" >
 <p align="center"
 
-  AC ; [27yen_](https://x.com/27yen_?s=21)
+  AC 　𓏼　 [27yen_](https://x.com/27yen_?s=21)
