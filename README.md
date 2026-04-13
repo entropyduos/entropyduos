@@ -10,8 +10,8 @@
 <p align="center"
 
 <img
-        src="https://files.catbox.moe/twqpkh.png" 
-        width=70%
+        src="https://file.garden/ad0yZQ2NgTRLevqe/Untitled56_20260412234300.png" 
+        width=60%
         title="My Image"
         alt="My Image" >
 <p align="center"
